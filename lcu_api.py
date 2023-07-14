@@ -67,6 +67,7 @@ async def print_current_effects(connection):
     name = getChampionByKey(champ)
     if name != current_champ:
         current_champ = name
+        print('\n'*2)
         get_champ_effects(name)
 
 
@@ -90,6 +91,7 @@ async def cs_created(connection, event):
     if not is_aram(data):
         return
     print('created!')
+    await print_current_effects(connection)
 #    print_effects(data)
 
 
