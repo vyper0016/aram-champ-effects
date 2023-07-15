@@ -41,8 +41,11 @@ if __name__ == '__main__':
         return(my_champ, available_trades, bench_champs)
 
 
-    async def get_champs_web(connection, champ_select_session):
-        champs = await get_champs(connection, champ_select_session)
+    async def get_champs_web(connection, champ_select_session, test=None):
+        if test == None:
+            champs = await get_champs(connection, champ_select_session)
+        else:
+            champs = test
 
         with open(DB_NAME, 'r') as f:
             effects = json.load(f)
@@ -72,6 +75,7 @@ if __name__ == '__main__':
             except KeyError:
                 print("\033[91m" + f"'\nerrors:', {champs}" + "\033[0m")
                 print(champ_select_session)
+
             if effects[i]:
                 dmg_dealt = effects[i]['dmg_dealt']
                 dmg_received = effects[i]['dmg_received']
@@ -96,6 +100,13 @@ if __name__ == '__main__':
 
         return data
 
+
+    async def test_db():
+        t = await get_champs_web(None, None, ('Aatrox', [], []))
+        print(t)
+        communication_queue.put(t)
+
+    
 
     def is_aram(data):
         for key, value in zip(["allowBattleBoost", "allowDuplicatePicks", "allowLockedEvents", "allowRerolling", "allowSkinSelection"],

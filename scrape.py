@@ -9,7 +9,7 @@ import requests
 
 URL = 'https://leagueoflegends.fandom.com/wiki/ARAM#Mode-Specific_Changes'
 CHAMP_ICONS_URL = 'https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/'
-DB_NAME = 'champs.json'
+DB_NAME = 'champs1.json'
 ICONS_PATH = './gui/icons/'
 
 
@@ -33,7 +33,14 @@ def extract_text(soup:bs.BeautifulSoup):
         if t.parent.name not in blacklist:
             output += '{} '.format(t)
     
-    return output.strip()
+    list1 = output.strip().split('\n')
+    output_list = []
+    for i in list1:
+        i = i.strip()
+        if i:
+            output_list.append(i)
+
+    return output_list
 
 
 def get_name(soup):
@@ -180,4 +187,4 @@ def get_champ_effects(champ:str):
 
 
 if __name__ == '__main__':
-    update_db()
+    update_db(False)

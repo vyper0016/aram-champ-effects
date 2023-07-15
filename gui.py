@@ -23,11 +23,14 @@ def check_queue():
             
             if not started_champs:
                 eel.goToChamps()
-                started_champs = True                
+                started_champs = True  
+                eel.sleep(0.4)              
                 eel.updateTable(message)
-                print('updated table')
+                print('first update table')
+                print(message)
                 last_update = message
-                eel.sleep(0.4)
+                eel.sleep(0.3)
+                eel.updateTable(message)
 
             if message != last_update:
                 eel.updateTable(message)
