@@ -1,0 +1,55 @@
+{
+   "mine": {
+      "name": "Aatrox",
+      "icon": "/icons/Aatrox.png",
+      "dmg_dealt": "+5%",
+      "dmg_received": "-5%",
+      "other": "Tenacity increased by 20%."
+   },
+   "tradable": [
+      {
+         "name": "Rammus",
+         "icon": "/icons/Rammus.png",
+         "dmg_dealt": "",
+         "dmg_received": "",
+         "other": ""
+      },
+      {
+         "name": "Twisted Fate",
+         "icon": "/icons/TwistedFate.png",
+         "dmg_dealt": "",
+         "dmg_received": "",
+         "other": ""
+      },
+      {
+         "name": "Urgot",
+         "icon": "/icons/Urgot.png",
+         "dmg_dealt": "",
+         "dmg_received": "+10%",
+         "other": ""
+      },
+      {
+         "name": "Ashe",
+         "icon": "/icons/Ashe.png",
+         "dmg_dealt": "-15%",
+         "dmg_received": "",
+         "other": "Ability haste reduced by 30.  \n Total attack speed increased by 2. 5 %."
+      }
+   ],
+   "bench": [
+      {
+         "name": "Ivern",
+         "icon": "/icons/Ivern.png",
+         "dmg_dealt": "-10%",
+         "dmg_received": "",
+         "other": "Shielding done reduced by 20%."
+      },
+      {
+         "name": "LeBlanc",
+         "icon": "/icons/Leblanc.png",
+         "dmg_dealt": "+5%",
+         "dmg_received": "-10%",
+         "other": "Tenacity increased by 20%.  \n Ability haste increased by 20."
+      }
+   ]
+}

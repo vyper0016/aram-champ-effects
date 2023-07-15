@@ -10,7 +10,7 @@ import requests
 URL = 'https://leagueoflegends.fandom.com/wiki/ARAM#Mode-Specific_Changes'
 CHAMP_ICONS_URL = 'https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/'
 DB_NAME = 'champs.json'
-ICONS_PATH = './icons/'
+ICONS_PATH = './gui/icons/'
 
 
 def extract_text(soup:bs.BeautifulSoup):

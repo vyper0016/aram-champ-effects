@@ -36,6 +36,18 @@ def getChampionById(id):
     return None
 
 
+def getChampionIdByKey(key):
+    with open('ddragon.json', 'r') as f:
+        champions = json.load(f)
+
+    for _, championData in champions.items():
+        if int(championData["key"]) == int(key):
+            return championData['id']
+    
+    print('could not find key', key)
+    return None
+
+
 def getChampionId(name):
     with open('ddragon.json', 'r') as f:
         champions = json.load(f)
@@ -44,7 +56,7 @@ def getChampionId(name):
         if championData["name"].upper() == name.upper():
             return championData['id']
     
-    print('could not find', name)
+    print('could not find by id', name)
     return None
 
 def matchId(id):

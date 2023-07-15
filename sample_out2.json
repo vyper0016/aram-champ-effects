@@ -1,0 +1,48 @@
+{
+   "mine": {
+      "name": "Aatrox",
+      "icon": "/icons/Aatrox.png",
+      "dmg_dealt": "+5%",
+      "dmg_received": "-5%",
+      "other": "Tenacity increased by 20%."
+   },
+   "tradable": [
+      {
+         "name": "Anivia",
+         "icon": "/icons/Anivia.png",
+         "dmg_dealt": "+5%",
+         "dmg_received": "",
+         "other": ""
+      },
+      {
+         "name": "Galio",
+         "icon": "/icons/Galio.png",
+         "dmg_dealt": "-5%",
+         "dmg_received": "+10%",
+         "other": ""
+      },
+      {
+         "name": "Miss Fortune",
+         "icon": "/icons/MissFortune.png",
+         "dmg_dealt": "-10%",
+         "dmg_received": "+15%",
+         "other": ""
+      },
+      {
+         "name": "Maokai",
+         "icon": "/icons/Maokai.png",
+         "dmg_dealt": "-20%",
+         "dmg_received": "+5%",
+         "other": "Healing done reduced by 20%."
+      }
+   ],
+   "bench": [
+      {
+         "name": "Seraphine",
+         "icon": "/icons/Seraphine.png",
+         "dmg_dealt": "-15%",
+         "dmg_received": "+20%",
+         "other": "Shielding done reduced by 20%.  \n Healing done reduced by 20%.  \n Ability haste reduced by 20."
+      }
+   ]
+}

@@ -1,0 +1,52 @@
+body {
+    background-color: #111111;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial", sans-serif;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    border-color: #ffffff;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #555555;
+    vertical-align: middle;
+  }
+
+  th {
+    background-color: #002147;
+    color: #ffffff;
+  }
+
+  tr:nth-child(even) {
+    background-color: #061e36;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #061e36;
+  }
+
+  .name {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .icon{
+    padding: 10px;
+  }
+
+  .selected_champs{
+    width: 10%;
+  }
