@@ -2,692 +2,899 @@
    "Aatrox": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Akali": {
       "dmg_dealt": "+5%",
       "dmg_received": "-10%",
-      "other": "Energy regeneration increased by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Energy regeneration increased by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Akshan": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Going Rogue \n \n Scoundrel duration reduced to 25 seconds."
+      "other": [
+         "Going Rogue",
+         "Scoundrel duration reduced to 25 seconds."
+      ]
    },
    "Alistar": {
       "dmg_dealt": "-5%",
       "dmg_received": "+10%",
-      "other": "Healing done reduced by 20%."
+      "other": [
+         "Healing done reduced by 20%."
+      ]
    },
    "Amumu": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Anivia": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Annie": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": "Shielding done reduced by 20%."
+      "other": [
+         "Shielding done reduced by 20%."
+      ]
    },
    "Ashe": {
       "dmg_dealt": "-15%",
       "dmg_received": "",
-      "other": "Ability haste reduced by 30.  \n Total attack speed increased by 2. 5 %."
+      "other": [
+         "Ability haste reduced by 30.",
+         "Total attack speed increased by 2. 5 %."
+      ]
    },
    "AurelionSol": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Ability haste reduced by 20."
+      "other": [
+         "Ability haste reduced by 20."
+      ]
    },
    "Azir": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": "Ability haste increased by 20.  \n Total attack speed increased by 2. 5 %.  \n   Arise! \n \n Azir  will start the game with one point already ranked in  Arise! , allowing him to allocate the other two to his other abilities."
+      "other": [
+         "Ability haste increased by 20.",
+         "Total attack speed increased by 2. 5 %.",
+         "Arise!",
+         "Azir  will start the game with one point already ranked in  Arise! , allowing him to allocate the other two to his other abilities."
+      ]
    },
    "Bard": {
       "dmg_dealt": "+15%",
       "dmg_received": "-15%",
-      "other": "Healing done increased by 20%.  \n   Traveler's Call \n \n Chime spawn rate changed to every 30 seconds instead of 50 seconds (initial spawn unchanged)."
+      "other": [
+         "Healing done increased by 20%.",
+         "Traveler's Call",
+         "Chime spawn rate changed to every 30 seconds instead of 50 seconds (initial spawn unchanged)."
+      ]
    },
    "Belveth": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Death in Lavender \n \n Bel'Veth  gains 2 stacks from nearby siege minion deaths.  \n   Endless Banquet \n \n Enhanced Void Corals spawn from nearby turrets being destroyed."
+      "other": [
+         "Death in Lavender",
+         "Bel'Veth  gains 2 stacks from nearby siege minion deaths.",
+         "Endless Banquet",
+         "Enhanced Void Corals spawn from nearby turrets being destroyed."
+      ]
    },
    "Brand": {
       "dmg_dealt": "-5%",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Caitlyn": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Camille": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Shielding done increased by 10%.  \n Healing done increased by 20%."
+      "other": [
+         "Shielding done increased by 10%.",
+         "Healing done increased by 20%."
+      ]
    },
    "Chogath": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Corki": {
       "dmg_dealt": "",
       "dmg_received": "-10%",
-      "other": "Hextech Munitions \n \n First package spawn time reduced to 5:00. \n Package cooldown reduced to 150 seconds."
+      "other": [
+         "Hextech Munitions",
+         "First package spawn time reduced to 5:00.",
+         "Package cooldown reduced to 150 seconds."
+      ]
    },
    "DrMundo": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Healing done reduced by 10%."
+      "other": [
+         "Healing done reduced by 10%."
+      ]
    },
    "Draven": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Ekko": {
       "dmg_dealt": "+10%",
       "dmg_received": "",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Elise": {
       "dmg_dealt": "+5%",
       "dmg_received": "-10%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Evelynn": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Ezreal": {
       "dmg_dealt": "",
       "dmg_received": "+3%",
-      "other": ""
+      "other": []
    },
    "Fiddlesticks": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Fiora": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Fizz": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Galio": {
       "dmg_dealt": "-5%",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Gangplank": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Parrrley \n \n New Effect:  Passively gains 1    Silver Serpent  per second."
+      "other": [
+         "Parrrley",
+         "New Effect:  Passively gains 1    Silver Serpent  per second."
+      ]
    },
    "Garen": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": "Courage \n \n Bonus resistances on-kill changed to 0. 5 .  Number of enemy kills needed to reach the maximum amount changed to 60."
+      "other": [
+         "Courage",
+         "Bonus resistances on-kill changed to 0. 5 .  Number of enemy kills needed to reach the maximum amount changed to 60."
+      ]
    },
    "Gnar": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Gragas": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Gwen": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Hecarim": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Healing done increased by 20%."
+      "other": [
+         "Healing done increased by 20%."
+      ]
    },
    "Heimerdinger": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Illaoi": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Irelia": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Ability haste increased by 20."
+      "other": [
+         "Ability haste increased by 20."
+      ]
    },
    "Ivern": {
       "dmg_dealt": "-10%",
       "dmg_received": "",
-      "other": "Shielding done reduced by 20%."
+      "other": [
+         "Shielding done reduced by 20%."
+      ]
    },
    "Janna": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": "Shielding done reduced by 10%.  \n Healing done reduced by 10%."
+      "other": [
+         "Shielding done reduced by 10%.",
+         "Healing done reduced by 10%."
+      ]
    },
    "JarvanIV": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Jax": {
       "dmg_dealt": "+5%",
       "dmg_received": "-3%",
-      "other": ""
+      "other": []
    },
    "Jhin": {
       "dmg_dealt": "-10%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Jinx": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "KSante": {
       "dmg_dealt": "",
       "dmg_received": "-10%",
-      "other": ""
+      "other": []
    },
    "Kaisa": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": "Total attack speed increased by 2. 5 %."
+      "other": [
+         "Total attack speed increased by 2. 5 %."
+      ]
    },
    "Kalista": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Total attack speed increased by 2. 5 %."
+      "other": [
+         "Total attack speed increased by 2. 5 %."
+      ]
    },
    "Karma": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Shielding done increased by 10%."
+      "other": [
+         "Shielding done increased by 10%."
+      ]
    },
    "Karthus": {
       "dmg_dealt": "-10%",
       "dmg_received": "+5%",
-      "other": "Death Defied \n \n Duration changed to 5 seconds."
+      "other": [
+         "Death Defied",
+         "Duration changed to 5 seconds."
+      ]
    },
    "Katarina": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Tenacity increased by 20%.  \n Ability haste increased by 10."
+      "other": [
+         "Tenacity increased by 20%.",
+         "Ability haste increased by 10."
+      ]
    },
    "Kayle": {
       "dmg_dealt": "-5%",
       "dmg_received": "+3%",
-      "other": ""
+      "other": []
    },
    "Kayn": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Healing done reduced by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Healing done reduced by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Kennen": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": "Energy regeneration increased by 20%."
+      "other": [
+         "Energy regeneration increased by 20%."
+      ]
    },
    "Khazix": {
       "dmg_dealt": "+5%",
       "dmg_received": "-10%",
-      "other": "Healing done increased by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Healing done increased by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Kindred": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": ""
+      "other": []
    },
    "Kled": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "KogMaw": {
       "dmg_dealt": "-12%",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Leblanc": {
       "dmg_dealt": "+5%",
       "dmg_received": "-10%",
-      "other": "Tenacity increased by 20%.  \n Ability haste increased by 20."
+      "other": [
+         "Tenacity increased by 20%.",
+         "Ability haste increased by 20."
+      ]
    },
    "LeeSin": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Shielding done increased by 20%.  \n Healing done increased by 20%.  \n Energy regeneration increased by 20%."
+      "other": [
+         "Shielding done increased by 20%.",
+         "Healing done increased by 20%.",
+         "Energy regeneration increased by 20%."
+      ]
    },
    "Leona": {
       "dmg_dealt": "-10%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Lillia": {
       "dmg_dealt": "-10%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Lissandra": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Lucian": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Lulu": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Shielding done increased by 10%."
+      "other": [
+         "Shielding done increased by 10%."
+      ]
    },
    "Lux": {
       "dmg_dealt": "-15%",
       "dmg_received": "+10%",
-      "other": "Shielding done reduced by 20%."
+      "other": [
+         "Shielding done reduced by 20%."
+      ]
    },
    "Malzahar": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Maokai": {
       "dmg_dealt": "-20%",
       "dmg_received": "+5%",
-      "other": "Healing done reduced by 20%."
+      "other": [
+         "Healing done reduced by 20%."
+      ]
    },
    "MasterYi": {
       "dmg_dealt": "",
       "dmg_received": "-3%",
-      "other": ""
+      "other": []
    },
    "Milio": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Shielding done reduced by 5%.  \n Healing done reduced by 5%."
+      "other": [
+         "Shielding done reduced by 5%.",
+         "Healing done reduced by 5%."
+      ]
    },
    "MissFortune": {
       "dmg_dealt": "-10%",
       "dmg_received": "+15%",
-      "other": ""
+      "other": []
    },
    "Mordekaiser": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Morgana": {
       "dmg_dealt": "-6%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Nami": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": "Healing done reduced by 5%."
+      "other": [
+         "Healing done reduced by 5%."
+      ]
    },
    "Nasus": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": "Siphoning Strike \n \n Per-kill stacks increased to  6 . \n Per-large-kill stacks increased to  24 ."
+      "other": [
+         "Siphoning Strike",
+         "Per-kill stacks increased to  6 .",
+         "Per-large-kill stacks increased to  24 ."
+      ]
    },
    "Nautilus": {
       "dmg_dealt": "-5%",
       "dmg_received": "+8%",
-      "other": ""
+      "other": []
    },
    "Nidalee": {
       "dmg_dealt": "+10%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Nilah": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": "Healing done reduced by 10%."
+      "other": [
+         "Healing done reduced by 10%."
+      ]
    },
    "Nocturne": {
       "dmg_dealt": "+10%",
       "dmg_received": "-15%",
-      "other": "Healing done increased by 20%."
+      "other": [
+         "Healing done increased by 20%."
+      ]
    },
    "Nunu": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Shielding done increased by 20%.  \n Healing done increased by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Shielding done increased by 20%.",
+         "Healing done increased by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Ornn": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Living Forge \n \n New Effect:  Forging an item puts  Living Forge  on a 120-second cooldown."
+      "other": [
+         "Living Forge",
+         "New Effect:  Forging an item puts  Living Forge  on a 120-second cooldown."
+      ]
    },
    "Pyke": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Qiyana": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Tenacity increased by 20%.  \n   Terrashape \n \n Targeting a Health Relic on    Howling Abyss  grants the  River   Element ."
+      "other": [
+         "Tenacity increased by 20%.",
+         "Terrashape",
+         "Targeting a Health Relic on    Howling Abyss  grants the  River   Element ."
+      ]
    },
    "Quinn": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Total attack speed increased by 2. 5 %."
+      "other": [
+         "Total attack speed increased by 2. 5 %."
+      ]
    },
    "RekSai": {
       "dmg_dealt": "",
       "dmg_received": "-15%",
-      "other": "Healing done increased by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Healing done increased by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Rell": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": "Shielding done reduced by 10%.  \n Healing done reduced by 10%."
+      "other": [
+         "Shielding done reduced by 10%.",
+         "Healing done reduced by 10%."
+      ]
    },
    "Renata": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": "Shielding done reduced by 20%."
+      "other": [
+         "Shielding done reduced by 20%."
+      ]
    },
    "Renekton": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Healing done increased by 20%."
+      "other": [
+         "Healing done increased by 20%."
+      ]
    },
    "Rengar": {
       "dmg_dealt": "",
       "dmg_received": "-8%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Riven": {
       "dmg_dealt": "+5%",
       "dmg_received": "-8%",
-      "other": "Shielding done increased by 20%."
+      "other": [
+         "Shielding done increased by 20%."
+      ]
    },
    "Rumble": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Ryze": {
       "dmg_dealt": "+5%",
       "dmg_received": "-10%",
-      "other": ""
+      "other": []
    },
    "Samira": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Sejuani": {
       "dmg_dealt": "+5%",
       "dmg_received": "-8%",
-      "other": ""
+      "other": []
    },
    "Senna": {
       "dmg_dealt": "-6%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Seraphine": {
       "dmg_dealt": "-15%",
       "dmg_received": "+20%",
-      "other": "Shielding done reduced by 20%.  \n Healing done reduced by 20%.  \n Ability haste reduced by 20."
+      "other": [
+         "Shielding done reduced by 20%.",
+         "Healing done reduced by 20%.",
+         "Ability haste reduced by 20."
+      ]
    },
    "Sett": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Shielding done reduced by 10%.  \n Healing done reduced by 10%.  \n Ability haste reduced by 20."
+      "other": [
+         "Shielding done reduced by 10%.",
+         "Healing done reduced by 10%.",
+         "Ability haste reduced by 20."
+      ]
    },
    "Shaco": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Jack in the Box \n \n Limited to 6  Boxes  active."
+      "other": [
+         "Jack in the Box",
+         "Limited to 6  Boxes  active."
+      ]
    },
    "Shen": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Shyvana": {
       "dmg_dealt": "-5%",
       "dmg_received": "-5%",
-      "other": "Fury of the Dragonborn \n \n Alternate Innate:   Shyvana  gains  1  bonus  armor ,  1  bonus  magic resistance , and  0. 05   bonus  Fury regeneration  whenever a siege or a canon minion dies within 1400 units range of her, or when she is healed by a health relic's area of effect on the enemy's side of the map.\n She will not gain bonuses if she is dead, even if in range."
+      "other": [
+         "Fury of the Dragonborn",
+         "Alternate Innate:   Shyvana  gains  1  bonus  armor ,  1  bonus  magic resistance , and  0. 05   bonus  Fury regeneration  whenever a siege or a canon minion dies within 1400 units range of her, or when she is healed by a health relic's area of effect on the enemy's side of the map.",
+         "She will not gain bonuses if she is dead, even if in range."
+      ]
    },
    "Singed": {
       "dmg_dealt": "-10%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Sion": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Shielding done reduced by 20%.  \n Tenacity reduced by 20%.  \n Ability haste reduced by 20.  \n   Glory in Death \n \n Life steal reduced to 50%."
+      "other": [
+         "Shielding done reduced by 20%.",
+         "Tenacity reduced by 20%.",
+         "Ability haste reduced by 20.",
+         "Glory in Death",
+         "Life steal reduced to 50%."
+      ]
    },
    "Sivir": {
       "dmg_dealt": "-15%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Skarner": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Crystal Spires \n \n Number of  Crystal Spires  spawned on the battlefield changed to five:\n One in each brush (with the central one being neutral) \n One in each team's base (below each inhibitor)"
+      "other": [
+         "Crystal Spires",
+         "Number of  Crystal Spires  spawned on the battlefield changed to five:",
+         "One in each brush (with the central one being neutral)",
+         "One in each team's base (below each inhibitor)"
+      ]
    },
    "Sona": {
       "dmg_dealt": "-5%",
       "dmg_received": "+10%",
-      "other": "Shielding done reduced by 10%.  \n Healing done reduced by 10%.  \n Ability haste reduced by 20."
+      "other": [
+         "Shielding done reduced by 10%.",
+         "Healing done reduced by 10%.",
+         "Ability haste reduced by 20."
+      ]
    },
    "Swain": {
       "dmg_dealt": "-10%",
       "dmg_received": "+15%",
-      "other": "Healing done reduced by 10%."
+      "other": [
+         "Healing done reduced by 10%."
+      ]
    },
    "Sylas": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Syndra": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "TahmKench": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Taliyah": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Talon": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Taric": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Teemo": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Ability haste reduced by 20.  \n   Noxious Trap \n \n Deal 66% damage to minions (50% total)."
+      "other": [
+         "Ability haste reduced by 20.",
+         "Noxious Trap",
+         "Deal 66% damage to minions (50% total)."
+      ]
    },
    "Thresh": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Damnation \n \n Each collected soul counts as 2 from 1."
+      "other": [
+         "Damnation",
+         "Each collected soul counts as 2 from 1."
+      ]
    },
    "Tristana": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Trundle": {
       "dmg_dealt": "",
       "dmg_received": "+5%",
-      "other": "Healing done reduced by 5%."
+      "other": [
+         "Healing done reduced by 5%."
+      ]
    },
    "Tryndamere": {
       "dmg_dealt": "+15%",
       "dmg_received": "-15%",
-      "other": "Healing done increased by 40%."
+      "other": [
+         "Healing done increased by 40%."
+      ]
    },
    "Twitch": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Udyr": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Tenacity increased by 20%."
+      "other": [
+         "Tenacity increased by 20%."
+      ]
    },
    "Urgot": {
       "dmg_dealt": "",
       "dmg_received": "+10%",
-      "other": ""
+      "other": []
    },
    "Varus": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Vayne": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Veigar": {
       "dmg_dealt": "-10%",
       "dmg_received": "+10%",
-      "other": "Event Horizon \n \n Cooldown changed to 23 / 21. 5  / 20 / 18. 5  / 17 seconds."
+      "other": [
+         "Event Horizon",
+         "Cooldown changed to 23 / 21. 5  / 20 / 18. 5  / 17 seconds."
+      ]
    },
    "Velkoz": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Vex": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Vi": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Viego": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Viktor": {
       "dmg_dealt": "-5%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Vladimir": {
       "dmg_dealt": "-5%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Warwick": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": "Healing done increased by 5%."
+      "other": [
+         "Healing done increased by 5%."
+      ]
    },
    "Xerath": {
       "dmg_dealt": "-10%",
       "dmg_received": "",
-      "other": ""
+      "other": []
    },
    "Yone": {
       "dmg_dealt": "+3%",
       "dmg_received": "-3%",
-      "other": ""
+      "other": []
    },
    "Yorick": {
       "dmg_dealt": "",
       "dmg_received": "",
-      "other": "Shepherd of Souls \n \n Deaths required for a grave changed to 5 at all levels."
+      "other": [
+         "Shepherd of Souls",
+         "Deaths required for a grave changed to 5 at all levels."
+      ]
    },
    "Yuumi": {
       "dmg_dealt": "+5%",
       "dmg_received": "",
-      "other": "Healing done increased by 10%."
+      "other": [
+         "Healing done increased by 10%."
+      ]
    },
    "Zac": {
       "dmg_dealt": "",
       "dmg_received": "-4%",
-      "other": "Healing done increased by 20%."
+      "other": [
+         "Healing done increased by 20%."
+      ]
    },
    "Zed": {
       "dmg_dealt": "",
       "dmg_received": "-5%",
-      "other": "Energy regeneration increased by 20%.  \n Tenacity increased by 20%."
+      "other": [
+         "Energy regeneration increased by 20%.",
+         "Tenacity increased by 20%."
+      ]
    },
    "Zeri": {
       "dmg_dealt": "+10%",
       "dmg_received": "-10%",
-      "other": "Burst Fire \n \n Zeri  will start the game with one point already ranked in  Burst Fire! , allowing her to allocate the other two to her other abilities."
+      "other": [
+         "Burst Fire",
+         "Zeri  will start the game with one point already ranked in  Burst Fire! , allowing her to allocate the other two to her other abilities."
+      ]
    },
    "Ziggs": {
       "dmg_dealt": "-20%",
       "dmg_received": "+20%",
-      "other": "Ability haste reduced by 20."
+      "other": [
+         "Ability haste reduced by 20."
+      ]
    },
    "Zilean": {
       "dmg_dealt": "+5%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Zoe": {
       "dmg_dealt": "+10%",
       "dmg_received": "-5%",
-      "other": ""
+      "other": []
    },
    "Zyra": {
       "dmg_dealt": "-10%",
       "dmg_received": "+5%",
-      "other": ""
+      "other": []
    },
    "Ahri": {},
    "Aphelios": {},
