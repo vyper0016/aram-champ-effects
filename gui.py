@@ -1,5 +1,4 @@
 import eel
-from multiprocessing import Queue
 
 eel.init('gui')
 
@@ -36,6 +35,7 @@ def check_queue():
                 eel.updateTable(message)
                 print('updated table')
                 last_update = message
+                eel.sleep(0.4)
 
     # Schedule the next check
     eel.sleep(0.3)

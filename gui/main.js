@@ -72,8 +72,6 @@ function updateTable(data) {
       effectItem.textContent = effect;
       otherList.appendChild(effectItem);
     });
-  } else {
-    otherList.textContent = "None";
   }
 
   otherCell.appendChild(otherList);
@@ -235,8 +233,6 @@ function updateTable(data) {
         effectItem.textContent = effect;
         otherList.appendChild(effectItem);
       });
-    } else {
-      otherList.textContent = "None";
     }
 
     otherCell.appendChild(otherList);
@@ -290,8 +286,6 @@ function updateTable(data) {
           effectItem.textContent = effect;
           otherList.appendChild(effectItem);
         });
-      } else {
-        otherList.textContent = "None";
       }
 
       otherCell.appendChild(otherList);
