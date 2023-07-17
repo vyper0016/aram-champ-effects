@@ -1,0 +1,4 @@
+requests
+lcu-driver
+eel
+bs4
